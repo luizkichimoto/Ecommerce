@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMqk12Ogs/Y=",
+  "success": true,
+  "projectFilePath": "H:\\Materiais Fiap\\2° ano\\.net C#\\CP-1\\Ecommerce\\Ecommerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfkv0\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\lfkv0\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
